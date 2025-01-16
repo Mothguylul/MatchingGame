@@ -1,0 +1,15 @@
+C:\Code\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe.config
+C:\Code\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe
+C:\Code\MatchingGame\MatchingGame\bin\Debug\MatchingGame.pdb
+C:\Code\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.AssemblyReference.cache
+C:\Code\MatchingGame\MatchingGame\obj\Debug\MainWindow.g.cs
+C:\Code\MatchingGame\MatchingGame\obj\Debug\App.g.cs
+C:\Code\MatchingGame\MatchingGame\obj\Debug\MatchingGame_MarkupCompile.cache
+C:\Code\MatchingGame\MatchingGame\obj\Debug\MatchingGame_MarkupCompile.lref
+C:\Code\MatchingGame\MatchingGame\obj\Debug\MainWindow.baml
+C:\Code\MatchingGame\MatchingGame\obj\Debug\MatchingGame.g.resources
+C:\Code\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Properties.Resources.resources
+C:\Code\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.GenerateResource.cache
+C:\Code\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.CoreCompileInputs.cache
+C:\Code\MatchingGame\MatchingGame\obj\Debug\MatchingGame.exe
+C:\Code\MatchingGame\MatchingGame\obj\Debug\MatchingGame.pdb
